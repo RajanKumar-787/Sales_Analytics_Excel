@@ -1,4 +1,4 @@
-# Sales Analytics Excel
+# Sales Analytics
 
 This project is part of the Codebasics Data Analytics Bootcamp, where I used Excel to analyze sales performance and deliver actionable insights through dynamic and interactive reports.
 
